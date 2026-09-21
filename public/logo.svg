@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 230" fill="none">
+  <!-- Wordmark "Easy Solutions" -->
+  <text x="200" y="85" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="#0f172a" letter-spacing="-1.5">Easy Solutions</text>
+  
+  <!-- Underline bar -->
+  <line x1="30" y1="105" x2="370" y2="105" stroke="#0f172a" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- 4U Circular Badge -->
+  <!-- Outer Sky Blue Ring -->
+  <circle cx="200" cy="168" r="48" fill="#38bdf8" />
+  <!-- Inner Royal/Corporate Blue Circle -->
+  <circle cx="200" cy="168" r="40" fill="#1d4ed8" />
+  <!-- Centered White "4U" Text -->
+  <text x="200" y="179" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="-0.5">4U</text>
+</svg>
